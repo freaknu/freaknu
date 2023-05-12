@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @freaknu
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning c++ and how to use git hub.
-- 💞️ I’m looking to collaborate on my instagram account
-- 📫 text me on instagram sonu_ydv.7
+Hey There, I’m Prabhat.
+I know C++ with DSA, Python, Java and Currently Studying In College.
